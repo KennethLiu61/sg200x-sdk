@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch="git@github.com:sophgo/" review="git@github.com:sophgo/"/>
+    <remote name="origin" fetch="git@github.com:KennethLiu61/" review="git@github.com:KennethLiu61/"/>
     <default revision="sg200x-dev" remote="origin" sync-j="4"/>
 
-    <project name="host-tools" revision="master"/>
     <project name="build"/>
     <project name="freertos" path="freertos"/>
     <project name="FreeRTOS-Kernel" path="freertos/Source"/>
